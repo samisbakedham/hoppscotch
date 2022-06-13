@@ -21,13 +21,13 @@
 
 [[redirects]]
   from = "/telegram"
-  to = "https://t.me/hoppscotch"
+  to = "https://t.me/candleupdates"
   status = 301
   force = true
 
 [[redirects]]
   from = "/beta"
-  to = "https://forms.gle/XPYDMp8m6JHNWcYp9"
+  to = "https://forms.gle/sVaYnTdELacCnpPN9"
   status = 301
   force = true
 
@@ -45,13 +45,13 @@
 
 [[redirects]]
   from = "/twitter"
-  to = "https://twitter.com/hoppscotch_io"
+  to = "https://twitter.com/candle_labs"
   status = 301
   force = true
 
 [[redirects]]
   from = "/github"
-  to = "https://github.com/hoppscotch/hoppscotch"
+  to = "https://github.com/candleplatforms/hoppscotch"
   status = 301
   force = true
 
